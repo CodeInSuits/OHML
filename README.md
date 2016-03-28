@@ -83,7 +83,7 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 * [Jace Lu](https://github.com/CodeInSuits)
 
 ### Third party libraries
-* N/A (All original)
+* [Opencv](http://opencv.org/)
 
 ## Version 
 * Version 1.0
