@@ -36,6 +36,7 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 #### Cameraview template right side view
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061801/6916d8bc-f347-11e5-958e-b1b25168874a.jpg?raw=true "Optional Title")
+#### Vocal Guide: Is this picture of your car ok?!
 #### User will be prompted to confirm until they are satisifed with the pictures.
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061811/692a0ec8-f347-11e5-8e9c-5068fd3eb3d9.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
@@ -44,8 +45,24 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+#### Then user would be asked to indicate damaged area using **Macco** HeapMap mode that utilizes Blender3D. Then through **HeapMap Vision**, an associated android app also designed by me, customers would have a clearer view when they match the new templates for insurance evaluation. Approximate steps are taken as follow:
+#### Vocal Guide: Please indicate the scratches and dents on your vehicle
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061805/6918e18e-f347-11e5-8a53-55707b68e266.jpg?raw=true "Optional Title")
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005523/18ba8b4a-8473-11e5-8c08-3d14c1e3e7aa.jpg?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005527/18d45f8e-8473-11e5-9cb7-60e554349a90.jpg?raw=true "Optional Title")
-#### Then user would be asked to indicate damaged area using **Macco** HeapMap mode that utilizes Blender3D. Then through **HeapMap Vision**, an associated android app also designed by me, customers would have a clearer view when they match the new templates for insurance evaluation. Steps are taken as follow:
+#### Vocal Guide: WOW, your car is jammed up! Please take photos of your car's damaged area by aligning to the templates.
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061803/69172a7e-f347-11e5-8436-33b9fc0bf31d.jpg?raw=true "Optional Title")
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061806/6926d0a0-f347-11e5-95d4-f4cf1b1bacc8.jpg?raw=true "Optional Title")
+#### After this process, users will just need to wait for automatic insurance evaluation and damage review from relavant insurance company :0
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061808/6928790a-f347-11e5-9c25-b552163526f0.jpg?raw=true "Optional Title")
+
+
 
 
 
