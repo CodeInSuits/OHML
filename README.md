@@ -10,7 +10,7 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061802/6916f284-f347-11e5-886b-de322a1bd79b.jpg?raw=true "Audio: Welcome to OHML John!")
 #### Vocal Guide:: Please take photos of your car by aligning car to templates. The picture will be automatically taken when the alignment is correct.
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061809/692904ec-f347-11e5-8df6-fa76cd9280d5.jpg?raw=true "Optional Title")
-#### Left Side View Cameraview template
+#### Cameraview template left side view
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061804/69187794-f347-11e5-830d-3b43962698f6.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
@@ -18,7 +18,7 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-#### Front View Cameraview template
+#### Cameraview template back side view
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061801/6916d8bc-f347-11e5-958e-b1b25168874a.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
@@ -27,14 +27,16 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005528/18d4de78-8473-11e5-893a-828e40f3aa46.jpg?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005524/18bb2e74-8473-11e5-9501-db3911b77296.jpg?raw=true "Optional Title")
+#### Cameraview template front side view
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061807/692827de-f347-11e5-962b-c7d680777c4c.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005530/18d55600-8473-11e5-98d9-7b55049c8a97.jpg?raw=true "Optional Title")
+#### Cameraview template right side view
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061801/6916d8bc-f347-11e5-958e-b1b25168874a.jpg?raw=true "Optional Title")
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005521/18b8df48-8473-11e5-90e6-d8a217ef2860.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
