@@ -26,7 +26,6 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005528/18d4de78-8473-11e5-893a-828e40f3aa46.jpg?raw=true "Optional Title")
 #### Cameraview template front side view
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061807/692827de-f347-11e5-962b-c7d680777c4c.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
