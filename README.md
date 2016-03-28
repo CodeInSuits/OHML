@@ -8,9 +8,16 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ## App Layout
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061802/6916f284-f347-11e5-886b-de322a1bd79b.jpg?raw=true "Audio: Welcome to OHML John!")
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061809/692904ec-f347-11e5-8df6-fa76cd9280d5.jpg?raw=true "Optional Title")
-#### The front of the car 
+#### Left Side View Cameraview template
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061804/69187794-f347-11e5-830d-3b43962698f6.jpg?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005529/18d54408-8473-11e5-918c-a17dc4163979.jpg?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
+#### Front View Cameraview template
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061801/6916d8bc-f347-11e5-958e-b1b25168874a.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
