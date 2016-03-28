@@ -6,7 +6,9 @@ It offers a new range of possibilities for **Macco** as **OHML** changed its way
 by helping user to locate damage parts through camera view features first, so that users will have a better sense of their cars' conditions when they enter
 the heapmap mode. Moreover, **OHML** imported the latest image capturing feature adopted by OpenCV library. This significantly improved user experience by offering the advanced auto-capture features. Users just need to hold the camera(with the camera view feature)towards their damaged cars and after certain time period, **OHML** will auto-focus on the matched parts and take photos. This is very practical during evaluation process as it reduces the chances where users might not send accurate photos and thus reduce the evaluation efficiency.
 ## App Layout
+#### Vocal Guide: Welcome to OHML John!
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061802/6916f284-f347-11e5-886b-de322a1bd79b.jpg?raw=true "Audio: Welcome to OHML John!")
+#### Vocal Guide:: Please take photos of your car by aligning car to templates. The picture will be automatically taken when the alignment is correct.
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061809/692904ec-f347-11e5-8df6-fa76cd9280d5.jpg?raw=true "Optional Title")
 #### Left Side View Cameraview template
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061804/69187794-f347-11e5-830d-3b43962698f6.jpg?raw=true "Optional Title")
