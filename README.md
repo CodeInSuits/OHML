@@ -36,15 +36,8 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 #### Cameraview template right side view
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061801/6916d8bc-f347-11e5-958e-b1b25168874a.jpg?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005521/18b8df48-8473-11e5-90e6-d8a217ef2860.jpg?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005522/18b9d510-8473-11e5-96a0-2137e9f26741.jpg?raw=true "Optional Title")
-![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005523/18ba8b4a-8473-11e5-8c08-3d14c1e3e7aa.jpg?raw=true "Optional Title")
+#### User will be prompted to confirm until they are satisifed with the pictures.
+![Alt text](https://cloud.githubusercontent.com/assets/13673458/14061811/692a0ec8-f347-11e5-8e9c-5068fd3eb3d9.jpg?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
@@ -52,6 +45,8 @@ the heapmap mode. Moreover, **OHML** imported the latest image capturing feature
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](http://c.dryicons.com/images/icon_sets/handy_icons_set/png/128x128/down_arrow.png?raw=true "Optional Title")
 ![Alt text](https://cloud.githubusercontent.com/assets/13673458/11005527/18d45f8e-8473-11e5-9cb7-60e554349a90.jpg?raw=true "Optional Title")
+#### Then user would be asked to indicate damaged area using **Macco** HeapMap mode that utilizes Blender3D. Then through **HeapMap Vision**, an associated android app also designed by me, customers would have a clearer view when they match the new templates for insurance evaluation. Steps are taken as follow:
+
 
 
 ## Tests
